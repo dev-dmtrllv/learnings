@@ -1,0 +1,34 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"noImplicitAny": true,
+		"sourceMap": true,
+		"module": "ESNext",
+		"target": "ESNext",
+		"jsx": "react-jsx",
+		"typeRoots": [
+			"./node_modules/@webgpu/types",
+			"./node_modules/@types"
+		],
+		"allowJs": false,
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"allowSyntheticDefaultImports": true,
+		"baseUrl": "./src",
+		"rootDir": "./src",
+		"alwaysStrict": true,
+		"esModuleInterop": true,
+		"noImplicitThis": true,
+		"noStrictGenericChecks": false,
+		"strictNullChecks": true,
+		"strict": true,
+		"strictFunctionTypes": true,
+		"strictPropertyInitialization": true
+	},
+	"include": [
+		"./src/**/*"
+	],
+	"exclude": [
+		"./config/**/*"
+	]
+}
