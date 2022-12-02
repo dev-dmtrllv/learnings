@@ -1002,14 +1002,14 @@ var WebSocketClient = /*#__PURE__*/function () {
 
 /***/ }),
 
-/***/ "./node_modules/webpack-dev-server/client/index.js?protocol=ws%3A&hostname=0.0.0.0&port=3001&pathname=%2Fws&logging=none&progress=false&overlay=false&reconnect=10&hot=false&live-reload=true":
+/***/ "./node_modules/webpack-dev-server/client/index.js?protocol=ws%3A&hostname=0.0.0.0&port=3002&pathname=%2Fws&logging=none&progress=false&overlay=false&reconnect=10&hot=false&live-reload=true":
 /*!****************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/webpack-dev-server/client/index.js?protocol=ws%3A&hostname=0.0.0.0&port=3001&pathname=%2Fws&logging=none&progress=false&overlay=false&reconnect=10&hot=false&live-reload=true ***!
+  !*** ./node_modules/webpack-dev-server/client/index.js?protocol=ws%3A&hostname=0.0.0.0&port=3002&pathname=%2Fws&logging=none&progress=false&overlay=false&reconnect=10&hot=false&live-reload=true ***!
   \****************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-var __resourceQuery = "?protocol=ws%3A&hostname=0.0.0.0&port=3001&pathname=%2Fws&logging=none&progress=false&overlay=false&reconnect=10&hot=false&live-reload=true";
+var __resourceQuery = "?protocol=ws%3A&hostname=0.0.0.0&port=3002&pathname=%2Fws&logging=none&progress=false&overlay=false&reconnect=10&hot=false&live-reload=true";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var webpack_hot_log_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! webpack/hot/log.js */ "./node_modules/webpack/hot/log.js");
 /* harmony import */ var webpack_hot_log_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(webpack_hot_log_js__WEBPACK_IMPORTED_MODULE_0__);
